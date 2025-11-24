@@ -6,7 +6,7 @@ pool:
 
 steps:
 - script: echo "Hello World from Azure DevOps Self-Hosted Agent!"
-  displayName: 'Print Hello World'
+  displayName: 'Print Hello likki World'
 
 - script: |
     echo "Checking current directory:"
